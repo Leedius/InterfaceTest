@@ -1,6 +1,6 @@
-package tv;
+package study.tv;
 
-public class NewSamsungTV implements TV{
+public class NewSamsungTV implements TV {
     @Override
     public void powerOn() {
         System.out.println("삼성티비 - 전원을 킵니다.");

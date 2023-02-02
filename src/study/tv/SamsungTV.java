@@ -1,4 +1,4 @@
-package tv;
+package study.tv;
 
 public class SamsungTV {
     public void powerOn(){

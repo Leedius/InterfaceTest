@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a1db46c-bea9-4dcc-9a2b-0968ed62a6e0" name="변경" comment="" />
+    <list default="true" id="7a1db46c-bea9-4dcc-9a2b-0968ed62a6e0" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InterfaceTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MyArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/MyArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/MyMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/MyMathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/RunStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/StudentUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/Inter01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/Interface01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/tv/LgTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/tv/NewLgTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/tv/NewSamsungTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/tv/SamsungTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/tv/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/tv/TVUser.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LAB199kzwXaHtYdi6EFwHXWeJL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +58,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/dev/workspace/InterfaceTest/src/study",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\workspace\InterfaceTest\src\study" />
+      <recent name="D:\dev\workspace\InterfaceTest\src\study\tv" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
